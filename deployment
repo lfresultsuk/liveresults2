@@ -1,3 +1,0 @@
-git add deploy.php
-git commit -m 'Added the git deployment script'
-git push -u origin master
